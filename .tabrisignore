@@ -1,5 +1,2 @@
-src/
-tslint.json
-tsconfig.json
 .gitignore
 README.md

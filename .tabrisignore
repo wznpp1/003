@@ -1,2 +1,6 @@
 .gitignore
 README.md
+src/
+tslint.json
+tsconfig.json
+package-lock.json

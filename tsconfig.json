@@ -8,11 +8,12 @@
     "jsxFactory": "JSX.createElement",
     "noImplicitAny": true,
     "noImplicitThis": true,
-    "alwaysStrict": true
+    "alwaysStrict": true,
+	"allowJs": true
   },
   "include": [
-    "./src/**/*.ts",
-    "./src/**/*.tsx",
+	"./src/**/*.ts",
+	"./src/**/*.tsx",
 	"./src/**/*.js",
 	"./src/**/*.jsx"
   ]
